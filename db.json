@@ -1,0 +1,94 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Wash the dishes",
+      "startDate": "20.04.2024",
+      "endDate": "24.12.2024",
+      "priority": "Medium",
+      "category": "Chores",
+      "completed": true
+    },
+    {
+      "id": "2",
+      "title": "Take a 20-minute walk",
+      "startDate": "20.04.2024",
+      "endDate": "30.10.2024",
+      "priority": "Low",
+      "category": "Health",
+      "completed": false
+    },
+    {
+      "id": "3",
+      "title": "Call your grandma",
+      "startDate": "20.04.2024",
+      "endDate": "17.06.2024",
+      "priority": "Medium",
+      "category": "Personal",
+      "completed": false
+    },
+    {
+      "id": "4",
+      "title": "Water the plants",
+      "startDate": "20.04.2024",
+      "endDate": "14.07.2024",
+      "priority": "Medium",
+      "category": "Chores",
+      "completed": true
+    },
+    {
+      "id": "5",
+      "title": "Declutter your desk for 15 minutes",
+      "startDate": "20.04.2024",
+      "endDate": "21.08.2024",
+      "priority": "High",
+      "category": "Organization",
+      "completed": true
+    },
+    {
+      "id": "6",
+      "title": "Read a chapter of that book you've been meaning to finish",
+      "startDate": "20.04.2024",
+      "endDate": "31.09.2024",
+      "priority": "Medium",
+      "category": "Leisure",
+      "completed": false
+    },
+    {
+      "id": "7",
+      "title": "Research a new recipe to try this week",
+      "startDate": "20.04.2024",
+      "endDate": "30.12.2024",
+      "priority": "Low",
+      "category": "Fun",
+      "completed": false
+    },
+    {
+      "id": "8",
+      "title": "Organize your digital files",
+      "startDate": "20.04.2024",
+      "endDate": "25.05.2024",
+      "priority": "High",
+      "category": "Productivity",
+      "completed": true
+    },
+    {
+      "id": "9",
+      "title": "Do some stretches or light exercises",
+      "startDate": "20.04.2024",
+      "endDate": "12.12.2024",
+      "priority": "Medium",
+      "category": "Health",
+      "completed": true
+    },
+    {
+      "id": "10",
+      "title": "Write a thank-you note to someone",
+      "startDate": "20.04.2024",
+      "endDate": "20.10.2024",
+      "priority": "Medium",
+      "category": "Personal",
+      "completed": false
+    }
+  ]
+}
